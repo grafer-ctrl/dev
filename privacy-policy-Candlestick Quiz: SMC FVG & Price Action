@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Candlestick Quiz: SMC FVG & Price Action</title>
+<style>
+body{font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;line-height:1.7;color:#111827;background:#f9fafb;margin:0;padding:0}
+.container{max-width:800px;margin:0 auto;background:#fff;padding:40px 32px;box-shadow:0 1px 3px rgba(0,0,0,0.1)}
+h1{font-size:28px;margin-bottom:8px}
+h2{font-size:20px;margin-top:32px;margin-bottom:12px;color:#111827;border-bottom:2px solid #e5e7eb;padding-bottom:8px}
+.small{color:#6b7280;font-size:14px}
+ul{padding-left:20px}
+a{color:#2563eb;text-decoration:none}
+a:hover{text-decoration:underline}
+.notice{background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:24px 0;border-radius:4px}
+.notice strong{color:#92400e}
+.footer{margin-top:40px;padding-top:20px;border-top:1px solid #e5e7eb;font-size:14px;color:#6b7280}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Privacy Policy</h1>
+<p class="small">Last updated: September 2, 2026<br>
+App: <strong>Candlestick Quiz: SMC FVG & Price Action</strong><br>
+Developer: <strong>CendekiaNetworks</strong></p>
+
+<div class="notice">
+<strong>⚠️ Disclaimer: Not Financial Advice & No Payments</strong><br>
+This App is created for <strong>educational and entertainment purposes only</strong>. It is a quiz and learning tool about candlestick patterns, SMC, FVG and Price Action. This App is <strong>NOT a financial advisory app, trading signal app, or investment app</strong>. Nothing in this App constitutes financial advice, investment advice, or trading recommendation.<br><br>
+This App does <strong>NOT collect any payments, funds, deposits, or investments</strong> from users. There is no real-money trading, no wallet, no subscription for financial services, and no handling of user funds inside the App. All quizzes are simulated for learning purposes only.
+</div>
+
+<p>This Privacy Policy explains how we collect, use, disclose, and protect information when you use the App. By installing or using the App you agree to the practices described in this policy.</p>
+
+<h2>1. Information We Do & Do Not Collect</h2>
+<p><strong>A. Personal Information</strong><br>
+We do not intentionally collect personally identifiable information (PII) such as your name, email address, phone number, home address, payment information, or government identifiers. The App does not require login or registration.</p>
+<p><strong>B. Non-Personal & Technical Information</strong><br>
+We and our service providers (Unity) may automatically collect non-personal technical data necessary to run, analyze, and improve the App. This may include:</p>
+<ul>
+<li>Device information (model, operating system, manufacturer)</li>
+<li>App usage data (features used, session length, navigation paths, quiz progress)</li>
+<li>Performance and crash logs</li>
+<li>Advertising identifiers (for example Google Advertising ID)</li>
+</ul>
+
+<h2>2. Advertising & Third-Party Services</h2>
+<p>The App displays advertisements provided by <strong>Unity Ads</strong> only. Unity Ads may use advertising IDs and similar technologies to deliver, measure, and personalize ads. Unity operates under its own privacy policy; we do not control how they collect or use information.</p>
+<p>We may also use analytics and crash-reporting services (for example Unity Analytics) to understand app usage and improve performance. These services collect aggregated and technical data.</p>
+<p>Third-party policy:<br>
+<a href="https://unity.com/legal/privacy-policy" target="_blank">https://unity.com/legal/privacy-policy</a></p>
+
+<h2>3. How We Use Information</h2>
+<ul>
+<li>To provide, maintain, and improve the App</li>
+<li>To analyze and measure usage trends and app performance</li>
+<li>To diagnose and fix errors and crashes</li>
+<li>To deliver relevant advertisements from Unity Ads</li>
+</ul>
+
+<h2>4. Data Sharing & Disclosure</h2>
+<p>We do not sell, rent, or trade personal information. We may share non-personal technical data with Unity as our service provider who helps us operate the App and serve ads. We may also disclose information when required by law or to protect our rights.</p>
+
+<h2>5. Data Security</h2>
+<p>We implement reasonable technical and organizational measures to protect information collected by the App. However, no method of transmission over the internet or electronic storage is completely secure. We cannot guarantee absolute security.</p>
+
+<h2>6. Data Retention</h2>
+<p>We retain non-personal technical data for as long as needed to provide the App's services, comply with legal obligations, resolve disputes, and enforce our agreements. Aggregated or anonymized data may be retained indefinitely.</p>
+
+<h2>7. Children's Privacy</h2>
+<p>The App is not directed to children.</p>
+
+<h2>8. Your Rights & Choices</h2>
+<ul>
+<li><strong>Advertising opt-out:</strong> On Android devices, you can reset or opt out of the Advertising ID and limit ad personalization in your device settings (Settings > Privacy > Ads).</li>
+<li><strong>Device settings:</strong> You can manage permissions from your device settings.</li>
+</ul>
+
+<h2>9. Entertainment Purpose Only</h2>
+<p>This App is strictly an educational quiz game. All candlestick patterns, SMC, FVG, Order Block and Price Action examples are for learning and do not guarantee any trading results. You should not make financial decisions based solely on this App. Always do your own research or consult a licensed financial advisor.</p>
+
+<h2>10. Changes to This Policy</h2>
+<p>We may update this Privacy Policy from time to time. When we do, we will revise the "Last updated" date at the top of this page. Your continued use of the App after changes become effective constitutes acceptance of the revised policy.</p>
+
+<h2>11. Contact Information</h2>
+<p>If you have questions regarding this Privacy Policy, please contact:</p>
+<p>
+Developer: CendekiaNetworks<br>
+App Name: Candlestick Quiz: SMC FVG & Price Action<br>
+Email: emardiyantoro@gmail.com
+</p>
+
+<div class="footer">
+<p>Thank you for using Candlestick Quiz: SMC FVG & Price Action. This is an entertainment and learning quiz app only.</p>
+</div>
+
+</div>
+</body>
+</html>
